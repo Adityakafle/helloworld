@@ -4,7 +4,7 @@ def greet_user(name):
 
 def main():
     """Main function to run the application."""
-    print("Welcome  to the Simple Greeting Application!")
+    print("Welcome . to the Simple Greeting Application!")
     user_name = input("Please enter your name: ")
     greet_user(user_name)
 
